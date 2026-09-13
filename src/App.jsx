@@ -1,4 +1,6 @@
-
+import { CardTypeOne } from './components/CardTypeOne'
+import { CardTypeTwo } from './components/CardTypeTwo'
+import { CardTypeThree } from './components/CardTypeThree'
 
 function App() {
   // All product displays must be the same size
@@ -7,7 +9,9 @@ function App() {
 
   return (
     <div className="app">
-
+      <CardTypeOne />
+      <CardTypeTwo />
+      <CardTypeThree />
     </div>
   )
 }

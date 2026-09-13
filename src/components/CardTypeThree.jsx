@@ -4,7 +4,7 @@ export function CardTypeThree() {
         <div className="productCardV3">
             {/* Idk Yet */}
 
-            <div></div>
+            <div> V3 </div>
 
         </div>
     )
