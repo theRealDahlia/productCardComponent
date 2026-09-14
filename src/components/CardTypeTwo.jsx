@@ -1,9 +1,11 @@
 export function CardTypeTwo() {
 
     return (
-        <div className="productCardV2">
+        <div className="h-60 w-40 bg-blue-500 rounded-xl text-center">
             {/* Display Image, when mouse hover on image display text (more info, buy now, etc...) */}
-            <div> V2 </div>
+            <div>
+
+            </div>
 
         </div>
 

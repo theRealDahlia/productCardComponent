@@ -8,7 +8,7 @@ function App() {
   // Each product display must have a price, and at least one button (more info, buy now, add to cart, etc...)
 
   return (
-    <div className="app">
+    <div className="flex flex-inline gap-3 mx-55 my-20">
       <CardTypeOne />
       <CardTypeTwo />
       <CardTypeThree />
